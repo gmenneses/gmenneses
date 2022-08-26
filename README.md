@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriela! 
+# Hello world! Eu sou a Gabriela Meneses 
 
 ## Bem vindo ao meu perfil GitHub 👋
 
